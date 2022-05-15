@@ -18,7 +18,7 @@
 
 # Clone o repositório
 
-$ git clone <https://github.com/VictorBortolotto/rest-api-java-spring.git>
+$ git clone https://github.com/VictorBortolotto/rest-api-java-spring.git
 
 # Rode em um terminal o comando 
 
