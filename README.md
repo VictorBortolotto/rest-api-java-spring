@@ -2,7 +2,7 @@
 
 <p align="center"> REST API utilizando Java, Spring Boot (Spring Data JPA e Spring Web), Maven e MySQL</p>
 
-[![GitHub license](https://github.com/VictorBortolotto/rest-api-java-spring)](https://github.com/VictorBortolotto/rest-api-java-spring/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/VictorBortolotto/rest-api-java-spring/blob/master/LICENSE)
 
 <p align="center">
     <a href="#projeto">Projeto</a> •
@@ -42,5 +42,5 @@ mvn spring-boot:run
 Victor Augusto Campos Bortolotto
 </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-augusto-campos-bortolotto-5517b8187/)](https://www.linkedin.com/in/victor-augusto-campos-bortolotto/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-augusto-campos-bortolotto/)](https://www.linkedin.com/in/victor-augusto-campos-bortolotto/) 
 [![Gmail Badge](https://img.shields.io/badge/-victorcamposbortolottowork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorcamposbortolottowork@gmail.com)](mailto:victorcamposbortolottowork@gmail.com)
