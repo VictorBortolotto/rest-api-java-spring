@@ -4,19 +4,12 @@
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/VictorBortolotto/rest-api-java-spring/blob/master/LICENSE)
 
-<p align="center">
-    <a href="#projeto">Projeto</a> •
-    <a href="#tecnologias">Tecnologias Usadas</a> •
-    <a href="#rodando-a-aplicacao">Rodando a Aplicação</a> •
-    <a href="#autor">Autor</a>
-</p>
-
 <h2 align="center"> Tecnologias Utilizadas </h2>
 
 <p align="center">
-    <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">JavaSE-17</a>
-    <a href="https://maven.apache.org/download.cgi">Maven-3.6.3</a>
-    <a href="https://dev.mysql.com/downloads/">MySQL-Community-Server</a>
+    <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">JavaSE-17</a><br/>
+    <a href="https://maven.apache.org/download.cgi">Maven-3.6.3</a><br/>
+    <a href="https://dev.mysql.com/downloads/">MySQL-Community-Server</a><br/>
 </p>
 
 <h2 align="center"> Rodando a Aplicação </h2> 
