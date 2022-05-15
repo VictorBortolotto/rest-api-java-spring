@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">JavaSE-17</a><br/>
     <a href="https://maven.apache.org/download.cgi">Maven-3.6.3</a><br/>
-    <a href="https://dev.mysql.com/downloads/">MySQL-Community-Server</a><br/>
+    <a href="https://dev.mysql.com/downloads/">MySQL-Community-Server</a>
 </p>
 
 <h2 align="center"> Rodando a Aplicação </h2> 
